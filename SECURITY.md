@@ -15,3 +15,4 @@
 | lakeFS | lakeFS | [暂无](https://github.com/treeverse/lakeFS/security/advisories/GHSA-223c-qwgx-wwcg) | SSRF |
 | Apache | Camel | [CVE-2026-88900](https://www.openwall.com/lists/oss-security/2026/10/19/2) | 代码执行 |
 | Oracle | MySQL | [CVE-2026-101803](https://www.oracle.com/security-alerts/cpuoct2026.html) | 堆缓冲区溢出 |
+| Apache | Tomcat | [CVE-2026-80353](https://www.openwall.com/lists/oss-security/2026/10/20/23) | 竞态条件 |
