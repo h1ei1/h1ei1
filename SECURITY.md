@@ -22,4 +22,5 @@
 | Spring | Spring Integration | [CVE-2026-59381](https://spring.io/security/cve-2026-59381) | 路径遍历 |
 | Spring | Spring Framework | [CVE-2026-59393](https://spring.io/security/cve-2026-59393) | 拒绝服务 |
 | Spring | Spring Framework | [CVE-2026-59394](https://spring.io/security/cve-2026-59394) | 开放重定向 |
+| Spring | Spring Boot | [CVE-2026-59410](https://spring.io/security/cve-2026-59410) | SSRF |
 | PHP | php-src | [CVE-2026-129538](https://github.com/php/php-src/security/advisories/GHSA-5j3f-64r7-f564) | 越界读写 |
