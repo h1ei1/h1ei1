@@ -17,9 +17,9 @@
 | Oracle | MySQL | [CVE-2026-101803](https://www.oracle.com/security-alerts/cpuoct2026.html) | 堆缓冲区溢出 |
 | Apache | Tomcat | [CVE-2026-80353](https://www.openwall.com/lists/oss-security/2026/10/20/23) | 竞态条件 |
 | Spring | Spring Security | [CVE-2026-59331](https://spring.io/security/cve-2026-59331) | 拒绝服务 |
-| Spring | Spring Boot | [CVE-2026-59373](https://spring.io/security/cve-2026-59373) | 中间人 |
+| Spring | Spring Boot | [CVE-2026-59373](https://spring.io/security/cve-2026-59373) | 认证不当 |
 | Spring | Spring Boot | [CVE-2026-59378](https://spring.io/security/cve-2026-59378) | 认证绕过 |
 | Spring | Spring Integration | [CVE-2026-59381](https://spring.io/security/cve-2026-59381) | 路径遍历 |
 | Spring | Spring Framework | [CVE-2026-59393](https://spring.io/security/cve-2026-59393) | 拒绝服务 |
 | Spring | Spring Framework | [CVE-2026-59394](https://spring.io/security/cve-2026-59394) | 开放重定向 |
-| PHP | php-src | [暂无](https://github.com/php/php-src/security/advisories/GHSA-5j3f-64r7-f564) | 越界读写 |
+| PHP | php-src | [CVE-2026-129538](https://github.com/php/php-src/security/advisories/GHSA-5j3f-64r7-f564) | 越界读写 |
